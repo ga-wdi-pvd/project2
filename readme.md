@@ -31,7 +31,7 @@ Your app must...
 
 ### Deliverables
 
-* By **Thursday, November 17th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.) Your repo should contain:
+* By **Monday, January 9th at 12:30pm**, create an issue on [the project2-gallery repository](https://github.com/ga-wdi-pvd/project2-gallery) containing a link to your Github repository **and a link to your portfolio page with a blurb about project 2**. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
 * A **working full-stack application, built by you**, that meets the technical requirements above.
