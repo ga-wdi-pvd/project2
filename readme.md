@@ -6,7 +6,7 @@ This project is your first foray into **building a full-stack application from t
 
 **This is exciting!** We've given you the tools over the past few weeks to be able build what you need, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
 
-**You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
+**You will be working individually for this project**, and you'll be designing the app yourself.
 
 <!-- **You will submit your idea to your squad leader via Slack by 2:30pm today (Friday, October 14th) to get feedback by 5pm.** -->
 
@@ -93,9 +93,9 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 
 ### Asking For Help
 
-The instructors will be offering support each day during Open Office Hours, 10:00am - 12:00pm in Classroom 3.
+The instructors will be offering support each day during Open Office Hours, 10:00am - 12:00pm and 2:00pm - 4:00pm.
 
-Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
+Students will be limited to `15 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
 
 Other than that, we will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes developers will interact with each other via GitHub issues, particularly in remote work settings.
 
