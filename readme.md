@@ -12,10 +12,6 @@ This project is your first foray into **building a full-stack application from t
 
 Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 
----
-### [Schedule](./schedule.md)
-
----
 ### Technical Requirements
 
 Your app must...
